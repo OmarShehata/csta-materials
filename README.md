@@ -27,8 +27,15 @@ It's very easy to motivate students when they get to work on a popular game they
 
 ### 3. It provides a standard to aspire to 
 
+Something that many students never get to see throughout their education is examples of well written, readable code. It's proof that naming your variables well isn't just something you do to make your teacher happy. 
+
 ### 4. Start with a broken build
+
+One common problem we've faced is that students will get distracted by _playing_ the game before they get to digging into the code. One easy way to fix that is to start with a version that has a minor error or bug that prevents them from playing, and the first task being to fix that before they test out the game. 
 
 ### 5. Provide guided early wins 
 
+This is especially important for beginners. A large codebase can be intimidating if you don't know where to start. Point them to lines of code where their changes will have visible consequences. Better yet, provide an example of how to _find_ something in the code (sometimes, just guessing that the jump code will have the word "jump" somewhere in it and CTRL+F in the file is a good start).
+
 ### 6. It's ideal for group work 
+
