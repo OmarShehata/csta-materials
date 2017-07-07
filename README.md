@@ -23,6 +23,8 @@ Our biggest fear was that throwing students who were just starting to learn to p
 
 ### 2. It's really fun, and empowering! 
 
+It's very easy to motivate students when they get to work on a popular game they actually recognize or enjoy playing. Showing them that they can take something like that, open it up, see how it works and make changes to it is also an incredibly powerful feeling. It's proof that the world around them is created by people and it lifts the curtains on what that looks like. 
+
 ### 3. It provides a standard to aspire to 
 
 ### 4. Start with a broken build
