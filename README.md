@@ -39,3 +39,4 @@ This is especially important for beginners. A large codebase can be intimidating
 
 ### 6. It's ideal for group work 
 
+Learning how to fork other people's projects is a great excuse to practice working off each other's code. A lot of the tools we mentioned above also support multiple people working together in the same project in real time. 
