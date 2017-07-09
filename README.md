@@ -1,5 +1,5 @@
 # PlayHack: Teaching Code by Hacking on Open-Source Games 
-Welcome! This README contains all the resources & links we mentioned in our CSTA 2017 conference talk by [Omar Shehata](https://github.com/OmarShehata) & [Eileen King](https://github.com/comeoneileen).
+Welcome! This README contains all the resources & links mentioned in a [CSTA 2017 conference talk](https://docs.google.com/presentation/d/17RI6qzzzmmxMXgPVCKjlC8jQIwxaTt-SJ1_N2bQtkv4/edit?usp=sharing) by [Omar Shehata](https://github.com/OmarShehata) & [Eileen King](https://github.com/comeoneileen).
 
 ## Links & Resources
 
@@ -12,11 +12,11 @@ These are all either tools to use in the classroom or resources you can use in c
 * [Lunar Lander PlayCanvas](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a#.l7vuweb49) - tutorial we wrote on how to fork and make a spaceship fly in PlayCanvas.
 * [Pixlr](http://pixlr.com/editor/) - neat tool for in-browser image editing, used by our students to customize sprites in their hacked Mario games
 * [Mozilla Thimble](http://thimble.mozilla.org/) - great tool for creating web apps in the browser, as well as remixing projects and inline tutorials.
-* [Glitch](https://glitch.com/ ) - awesome tool for making web apps in the browser, complete with a backend, database and everything! Also a great place to collaborate in real time as well as remix projects. [Here](https://glitch.com/edit/#!/tutsplus-pirate-shooter)'s a sample project I made for a multiplayer games workshop.
+* [Glitch](https://glitch.com/ ) - awesome tool for making web apps in the browser, complete with a backend, database and everything! Also a great place to collaborate in real time as well as remix projects. [Here](https://glitch.com/edit/#!/tutsplus-pirate-shooter) is a sample project Omar made for a multiplayer games workshop.
 
 ## Takeaways 
 
-If you're anything like me and you're terrible at taking notes, we've compiled some of our important takeaways for you here! 
+If you're anything like us and you're terrible at taking notes, we've compiled some of our important takeaways for you here! 
 
 ### 1. Young students are capable of working with complex open source software
 
